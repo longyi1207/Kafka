@@ -37,7 +37,7 @@ Message on test[0]@39: Message 9
 
 ## Future improvement
 The current implementation only produces message to the "test" topic.
-One thing to do is to pass in parameter <TOPICS> and <MESSAGES> in the producer's CLI and enable the producer to auto-create more topics as needed.
+One thing to do is to pass in parameter \<TOPICS\> and \<MESSAGES\> in the producer's CLI and enable the producer to auto-create more topics as needed.
 
 Screenshot:
 ![Success Result](https://github.com/longyi1207/Kafka/blob/main/screenshot.jpg)
