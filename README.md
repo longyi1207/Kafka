@@ -40,4 +40,4 @@ The current implementation only produces message to the "test" topic.
 One thing to do is to pass in paramter <TOPICS> and <MESSAGES> on the producer side, and then auto-create such topics, and produce those messages.
 
 Screenshot:
-![Success Result](https://github.com/longyi1207/Kafka/blob/screenshot.jpg)
+![Success Result](https://github.com/longyi1207/Kafka/blob/main/screenshot.jpg)
