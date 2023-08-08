@@ -1,5 +1,5 @@
 # Kafka
-This project uses Kafka to implement a message producer and consumer that communicate in a reliable, non-block, and real-time way. This project is solely for learning purpose.
+This project uses Kafka to implement a message producer and consumer that communicate in a reliable, non-blocking, and real-time way. This project is solely for learning purpose.
 
 ## Usage:
 Download kafka from its [offical website](https://kafka.apache.org/downloads) and follow the instructions to install. Or alternatively on MacOS you can use homebrew to do this. Run both kafka and zookeeper after installation.
