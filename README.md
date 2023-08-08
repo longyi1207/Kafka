@@ -35,6 +35,12 @@ Message on test[0]@38: Message 8
 Message on test[0]@39: Message 9
 ```
 
+Don't forget the stop the services after done:
+```bash
+brew services stop zookeeper
+brew services stop kafka
+```
+
 ## Future improvement
 The current implementation only produces message to the "test" topic.
 One thing to do is to pass in parameter \<TOPICS\> and \<MESSAGES\> in the producer's CLI and enable the producer to auto-create more topics as needed.
