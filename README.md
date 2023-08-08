@@ -39,6 +39,7 @@ Don't forget the stop the services after done:
 ```bash
 brew services stop zookeeper
 brew services stop kafka
+press Ctrl^C on the producer/consumer's terminal
 ```
 
 ## Future improvement
